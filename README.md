@@ -1,9 +1,9 @@
-### Hi there 👋 , my name is Parmpal Singh Chouhan!
+### Hi there :wave: , my name is Parmpal Singh Chouhan!
 
 [![Github](https://img.shields.io/static/v1?label=Github&message=%E2%9D%A4&logo=GitHub&style=for-the-badge)](https://github.com/parmchouhan)
 [![Twitter Follow](https://img.shields.io/twitter/follow/parmchouhan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fparmchouhan&screen_name=parmchouhan)
 
-## Full Stack Developer at DevoPie.
+## I'am a Full Stack :full_moon_with_face: Developer at DevoPie :technologist::pie:.
 
 - 👀 &nbsp; Interested in web development
 - 🌱 &nbsp; Currently working with php, laravel, mysql, python, django, flask, mongodb, payment gateway APIs
