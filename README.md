@@ -26,18 +26,19 @@
 [<img align="left" alt="GraphQL" width="30px" src="https://graphql.org/img/logo.svg" />][graphql]
 [<img align="left" alt="Laravel" width="30px" src="https://raw.githubusercontent.com/laravel/art/master/logo-mark/4%20PNG/1%20PMS/laravel-mark-PMS-red-1788C.png" />][laravel]
 [<img align="left" alt="MySQL" height="30px" src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" />][mysql]
+<br />
+<br />
 [<img align="left" alt="MongoDB" height="30px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg" />][mongodb]
 [<img align="left" alt="Git" width="30px" src="https://docs.github.com/assets/images/site/favicon.png" />][github]
-
 [<img align="left" alt="Html5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />][html5]
 [<img align="left" alt="CSS" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />][css]
 [<img align="left" alt="Php" height="30px" src="https://www.php.net/images/logos/php-logo.svg" />][php]
 [<img align="left" alt="Python" height="30px" src="https://www.python.org/static/img/python-logo@2x.png" />][python]
+<br />
+<br />
 [<img align="left" alt="jQuery" height="30px" src="https://jquery.com/jquery-wp-content/themes/jquery.com/i/favicon.ico" />][jquery]
 [<img align="left" alt="MsOffice" height="30px" src="https://res.cdn.office.net/officehub/images/content/images/favicon-8f211ea639.ico" />][msoffice]
 [<img align="left" alt="adobe" height="30px" src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg" />][adobe]
-<br />
-<br />
 [<img align="left" alt="aws" height="30px" src="https://www.zarantech.com/blog/wp-content/uploads/2019/03/aws-logo.png" />][aws]
 [<img align="left" alt="nginx" height="30px" src="https://www.nginx.com/wp-content/uploads/2019/10/favicon-64x46.ico" />][nginx]
 [<img align="left" alt="apache" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/ASF_Logo.svg" />][apache]
