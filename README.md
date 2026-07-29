@@ -43,7 +43,7 @@
 [<img align="left" alt="adobe" height="30px" src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg" />][adobe]
 [<img align="left" alt="aws" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Amazon_Web_Services_2025.svg" />][aws]
 [<img align="left" alt="nginx" height="30px" src="https://nginx.org/img/nginx_logo.svg" />][nginx]
-[<img align="left" alt="apache" height="30px" src="https://httpd.apache.org/images/httpd_logo_wide_new.png" />][apache]
+[<img align="left" alt="apache" height="30px" src="https://en.wikipedia.org/wiki/Apache_HTTP_Server#/media/File:Apache_HTTP_server_logo_(2019-present).svg" />][apache]
 
 [twitter]: https://twitter.com/parmchouan
 [linkedin]: https://linkedin.com/in/parmpal-singh-chouhan-5203b2a8
