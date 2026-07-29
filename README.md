@@ -41,9 +41,9 @@
 [<img align="left" alt="jQuery" height="30px" src="https://jquery.com/wp-content/themes/jquery.com/i/favicon.ico" />][jquery]
 [<img align="left" alt="MsOffice" height="30px" src="https://res.cdn.office.net/officehub/images/content/images/favicon-8f211ea639.ico" />][msoffice]
 [<img align="left" alt="adobe" height="30px" src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg" />][adobe]
-[<img align="left" alt="aws" height="30px" src="https://www.zarantech.com/blog/wp-content/uploads/2019/03/aws-logo.png" />][aws]
-[<img align="left" alt="nginx" height="30px" src="https://nginx.org/img/nginx_logo.png" />][nginx]
-[<img align="left" alt="apache" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/ASF_Logo.svg" />][apache]
+[<img align="left" alt="aws" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Amazon_Web_Services_2025.svg" />][aws]
+[<img align="left" alt="nginx" height="30px" src="https://nginx.org/img/nginx_logo.svg" />][nginx]
+[<img align="left" alt="apache" height="30px" src="https://httpd.apache.org/images/httpd_logo_wide_new.png" />][apache]
 
 [twitter]: https://twitter.com/parmchouan
 [linkedin]: https://linkedin.com/in/parmpal-singh-chouhan-5203b2a8
